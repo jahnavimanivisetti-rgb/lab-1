@@ -10,12 +10,12 @@
 
 ## Course Lab Repository Overview
 
-This repository contains the laboratory assignments for the **Backend Development Fundamentals** course, organized into individual modular directories per lab:
+This repository contains the laboratory assignments for the **Backend Development Fundamentals** course, organized inside the main **`lab files`** directory:
 
 | Lab Directory | Topic / Title | Status |
 |---|---|---|
-| [`lab-01/`](./lab-01/) | **Lab 1:** Node.js and Express Server | Completed |
-| [`lab-02/`](./lab-02/) | **Lab 2:** SQLite Database and CRUD Routes | Completed |
+| [`lab files/lab-01/`](./lab%20files/lab-01/) | **Lab 1:** Node.js and Express Server | Completed |
+| [`lab files/lab-02/`](./lab%20files/lab-02/) | **Lab 2:** SQLite Database and CRUD Routes | Completed |
 
 ---
 
