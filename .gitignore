@@ -15,6 +15,3 @@ yarn-error.log*
 # Operating System files
 .DS_Store
 Thumbs.db
-
-# Nested git backup
-.git_backup_lab1/
