@@ -1,12 +1,12 @@
 @echo off
-title Push Lab 1 to GitHub
+title Push Course Repository to GitHub
 echo ========================================================
-echo Pushing Lab 1 files to GitHub...
+echo Pushing Course Labs to GitHub...
 echo Repository: https://github.com/jahnavimanivisetti-rgb/lab-1
 echo ========================================================
 echo.
 
-cd /d "C:\Users\JAHNAVI\OneDrive\Desktop\intership project\lab-01"
+cd /d "C:\Users\JAHNAVI\OneDrive\Desktop\intership project"
 
 git push -u origin main
 
